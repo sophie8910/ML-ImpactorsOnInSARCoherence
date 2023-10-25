@@ -20,7 +20,9 @@ Machine-Learning Characteristics of Impactors on InSAR Coherence in Wetland: Cas
 
 
 ## Team Members
-Shanshan Li: shli11@outlook.com (Mentor)
-Bing Xu:  (Graduate Student and Secondary Mentor)
-Jie Yue:  (Undergraduate Student, Team Lead)
+<br> Shanshan Li: shli11@outlook.com (Mentor)  
+<br> Bing Xu:  (Graduate Student and Secondary Mentor)
+<br> Jie Yue:  (Undergraduate Student, Team Lead)
+
+
 
