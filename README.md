@@ -5,10 +5,11 @@ Machine-Learning Characteristics of Impactors on InSAR Coherence in Wetland: Cas
 ## Motivation
 
 1. What is InSAR coherence? Why is it important?
+   <br>
     InSAR coherence, or Interferometric Synthetic Aperture Radar Coherence, is a technique used in radar remote sensing that helps us understand the changes and properties of the Earth's surface. Imagine you take two radar images of the same location at different times. InSAR coherence helps us understand how similar or different these two images are. If the surface has remained relatively stable, the coherence will be high, indicating little change. However, if there have been significant movements or changes, the coherence will be lower, indicating a larger difference between the two images. 
     Extracting significant features that impact coherence products is important because it helps us identify the causes of changes in coherence. By understanding these features, we can better interpret the data and draw more accurate conclutions about what is happening on the Earth's surface. This information is vital for making informed decisions in various fields, including environmental management, disaster risk reduction, and infrastructure planning. 
 
-2. Understanding InSAR coherence in wetland environments and quantifying their contributions remains limited.
+3. Understanding InSAR coherence in wetland environments and quantifying their contributions remains limited.
 
 ## Goal of Project
 
