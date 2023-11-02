@@ -1,6 +1,6 @@
 # ML-ImpactorsOnInSARCoherence
 
-Machine-Learning Characteristics of Impactors on InSAR Coherence in Wetland: Case Study in Everglade which is funded by an innovation project at Nanjing Tech University
+Machine-Learning Characteristics of Impactors on InSAR Coherence in Wetland which is funded by an innovation project at Nanjing Tech University
 
 ## Motivation
 
@@ -44,6 +44,8 @@ The current solution is based on Random Forest Algorithm, and three different me
 <br> Bing Xu:  (Graduate Student and Secondary Mentor)
 <br> Jie Yue: 2057826328@qq.com (Undergraduate Student, Team Lead)
 <br> Wanxiu Zhang: (Undergraduate Student, Team Member)
+<br> Yaozu Yang: (Undergraduate Student, Team Member)
+<br> Yongyang Ding: (Undergraduate Student, Team Member)
 
 
 
