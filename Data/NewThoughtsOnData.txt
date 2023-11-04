@@ -1,0 +1,46 @@
+1. coherence: change from t1 and t2 -> gauge station coherence 30 m* 30m, backscatter, t1 and t2
+water level: t2-t1 -> gauage station water level, 400 m*400 m, 
+NDVI:no specific data for t1 and t2, or t3 and t4, 250m*250m
+
+temperature: grid size, t1 t2, low resolution, t2-t1 27km* 27km
+precipitation: t1 and t2, t2-t1 
+u-wind:t1 and t2, 
+v-wind:
+
+
+2. latest datasets:
+coherence:  same as before, each row-> t1 and t2 A t3 and t4 start date -end date
+t1 water level->  first date observation, t1, t3, t5, t7.....
+t2 water level -> second date observation  t2, t4, t6, t8, ......
+t1 temperature -> first date 
+t2 temperature
+t1 precipitation
+t2 precipitation
+t1 u-wind
+t2 u-wind
+
+gauage stations: 271
+create features
+
+start_waterlevel 
+ end_water level
+t2-t1 water level
+
+start NDVI
+end NDVI
+difference_NDVI
+
+100*100km 4 -> 20*20 km 4, 20*20km, 
+30m*30m, 
+high spatial reolsuiton, 
+30m*30m
+
+
+30*30
+250*250
+gauage station
+400*400
+
+
+
+
